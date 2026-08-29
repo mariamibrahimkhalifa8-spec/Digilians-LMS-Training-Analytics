@@ -20,7 +20,7 @@ SQL Server | Power BI | Power Query | DAX | Excel
 
 ## Dashboard Preview
 
-![LMS Dashboard](LMS_Dashboard.png)
+![LMS Dashboard](LMS_Dashboard.png.png)
 
 ## Skills
 SQL | Data Cleaning | Data Modeling | Power BI | DAX | Data Visualization
